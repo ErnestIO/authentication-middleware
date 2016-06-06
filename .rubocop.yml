@@ -1,0 +1,19 @@
+Style/Encoding:
+  Enabled: false
+
+Style/ConstantName:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
+
+Documentation:
+  Enabled: false
+
+Metrics/MethodLength:
+  Max: 25
+
+Metrics/AbcSize:
+  Enabled: false
+
+
