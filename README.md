@@ -4,8 +4,8 @@ Simple Authentication Middleware for Sinatra. Authenticates users by checking fo
 
 ## Build status
 
-* master:  [![CircleCI Master](https://circleci.com/gh/ErnestIO/authentication-middleware/tree/master.svg?style=svg&circle-token=627e89c447fe342aff9815ca146b081a37c075ad)](https://circleci.com/gh/ErnestIO/authentication-middleware/tree/master)
-* develop: [![CircleCI Develop](https://circleci.com/gh/ErnestIO/authentication-middleware/tree/develop.svg?style=svg&circle-token=627e89c447fe342aff9815ca146b081a37c075ad)](https://circleci.com/gh/ErnestIO/authorization-middleware/tree/develop)
+* master: [![CircleCI](https://circleci.com/gh/ErnestIO/authentication-middleware/tree/master.svg?style=svg)](https://circleci.com/gh/ErnestIO/authentication-middleware/tree/master)
+* develop: [![CircleCI](https://circleci.com/gh/ErnestIO/authentication-middleware/tree/develop.svg?style=svg)](https://circleci.com/gh/ErnestIO/authentication-middleware/tree/develop)
 
 ## Installation
 
@@ -43,7 +43,7 @@ relevant unit tests.
 ## Versioning
 
 For transparency into our release cycle and in striving to maintain backward
-compatibility, this project is maintained under [the Semantic Versioning guidelines](http://semver.org/). 
+compatibility, this project is maintained under [the Semantic Versioning guidelines](http://semver.org/).
 
 ## Copyright and License
 
