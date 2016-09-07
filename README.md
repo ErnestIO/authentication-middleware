@@ -4,14 +4,14 @@ Simple Authentication Middleware for Sinatra. Authenticates users by checking fo
 
 ## Build status
 
-* master: [![CircleCI](https://circleci.com/gh/ErnestIO/authentication-middleware/tree/master.svg?style=svg)](https://circleci.com/gh/ErnestIO/authentication-middleware/tree/master)
-* develop: [![CircleCI](https://circleci.com/gh/ErnestIO/authentication-middleware/tree/develop.svg?style=svg)](https://circleci.com/gh/ErnestIO/authentication-middleware/tree/develop)
+* master: [![CircleCI](https://circleci.com/gh/ernestio/authentication-middleware/tree/master.svg?style=svg)](https://circleci.com/gh/ernestio/authentication-middleware/tree/master)
+* develop: [![CircleCI](https://circleci.com/gh/ernestio/authentication-middleware/tree/develop.svg?style=svg)](https://circleci.com/gh/ernestio/authentication-middleware/tree/develop)
 
 ## Installation
 
 Add it to your Gemfile
 ```
-gem 'flowauth', git: 'https://github.com/ErnestIO/authentication-middleware.git'
+gem 'flowauth', git: 'https://github.com/ernestio/authentication-middleware.git'
 ```
 
 Install dependencies
